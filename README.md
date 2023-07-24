@@ -6,6 +6,8 @@ La première semaine, j'ai plus perdu du temps car je ne me souvenais plus qu'il
 
 Je me suis aidée du projet des tsi pour comprendre comment faire la "connexion" entre la fentre principale et le widget opengl, j'ai perdu pas mal de temps avant de trouver
 
+Développement avec qt et sous windows
+
 
 ### pas fait
 	- importer fichier cityjson -> item bloqué dans la séléction
